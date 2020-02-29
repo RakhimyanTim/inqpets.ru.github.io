@@ -1,2 +1,1 @@
-# Gojekyl-Creative-SaaS-landing-Template
-# Gojekyl-Creative-SaaS-landing-Template
+# Мобильное приложение для владельцев домашних животных
