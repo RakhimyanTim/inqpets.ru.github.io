@@ -2,20 +2,20 @@
 ####################################
 ######     Global start     ######
 ####################################
-name                : 'Becore'
-title               : 'Softdash - Creative SaaS And Software HTML5 Jekyll Template'
-email               : demo@example.com
-address             : '2216 Park Avenue, California 95630 '
-phone               : 0185612012035
-tagline             : 'description for your new site here' 
+name                : 'Инкпетс'
+title               : 'Мобильное приложение для владельцев домашних животных'
+email               : inqpets@gmail.com
+address             : 'Москва '
+phone               : 
+tagline             : 'Все виды ветеринарных услуг с выездом, на дому, в стационаре, онлайн.' 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl             : "" # the subpath of your site, e.g. /blog
-url                 : "http://127.0.0.1:4000/" #  7277783  the base hostname & protocol for your site, e.g. http://example.com
-twitter_username    : jekyllrb
-github_username     :  jekyll
+url                 : "https://inqpets.ru/" #  7277783  the base hostname & protocol for your site, e.g. http://example.com
+twitter_username    : inqpets
+github_username     : inqpets
 
 paginate: 12
 paginate_path: "/blog/page:num/"
@@ -73,8 +73,8 @@ hero_sass_background_image_btn_one_link: '#'
 hero_sass_background_image_btn_one_text:  'Browse free demo'
 
 # sass_fixed_image
-hero_saas_fixed_image_name: 'We Made our <br> Software 100% Errorless' 
-hero_saas_fixed_image_text: 'The first is a non technical method which requires the use of adware removal software.  Download free adware and spyware removal software and use advanced tools to help prevent  getting infected.'
+hero_saas_fixed_image_name: 'Мобильное приложение <br> для владельцев домашних животных' 
+hero_saas_fixed_image_text: 'Все виды ветеринарных услуг с выездом, на дому, в стационаре, онлайн.'
 hero_saas_fixed_image_image: 'img/mockup.png'
 hero_saas_fixed_image_btn_one_link: '#'
 hero_saas_fixed_image_btn_one_text:  'Browse free demo'
@@ -83,7 +83,7 @@ hero_saas_fixed_image_btn_one_text:  'Browse free demo'
 hero_sass_slider_name: 'We Made our <br> Software 100% Errorless' 
 hero_sass_slider_image: 'img/mockup.png'
 hero_sass_slider_btn_one_link: '#'
-hero_sass_slider_btn_one_text:  'Browse free demo'
+hero_sass_slider_btn_one_text:  'Попробовать бесплатно'
 hero_sass_slider: 
   - image: 'img/carusel/s1.jpg'
   - image: 'img/carusel/s2.jpg'
