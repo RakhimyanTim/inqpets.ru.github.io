@@ -113,7 +113,7 @@ hero_product_background_image_btn_one_text:  'Browse free demo'
 
 # product_fixed_image
 hero_product_fixed_image_name: 'Мобильное приложение <br> для владельцев домашних животных' 
-hero_product_fixed_image_text: 'Все виды ветеринарных услуг: диагностика, консультация, анализы, терапия, вакцинация, хирургия, акушерство, травматология, стоматология, ритуальные услуги'
+hero_product_fixed_image_text: 'Все виды ветеринарных услуг: диагностика, консультация, анализы, терапия, вакцинация, хирургия, акушерство, травматология, стоматология, ритуальные услуги.'
 hero_product_fixed_image_image: 'img/iPhoneX.png'
 hero_product_fixed_image_btn_one_link: '#'
 hero_product_fixed_image_btn_one_text:  'Попробовать бесплатно'
